@@ -1,1 +1,2 @@
 https://miktex.org/download ## Descargar MiKTeX
+python -m PyInstaller --onefile --windowed --icon=logo.png --manifest=kiwilax.manifest KiwiTex.py ## Compilar KiwiTex
