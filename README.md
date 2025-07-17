@@ -1,6 +1,6 @@
 # KiwiTex - Conversor de TEX a PDF
 
-![KiwiTex Logo](logo.png)
+![KiwiTex Logo](logo.ico)
 
 ## El Problema
 
